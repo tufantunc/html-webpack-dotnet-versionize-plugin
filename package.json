@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-dotnet-versionize-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a plugin for webpack-html-plugin to add .net framework's ToVersionize() method to the scripts and styles",
   "main": "index.js",
   "author": "Tufan Tunç <https://tufantunc.com>",
